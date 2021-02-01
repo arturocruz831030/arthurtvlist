@@ -1,306 +1,257 @@
 #EXTM3U
-﻿﻿#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/ae-hd.gif", A&E HD (211)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=62&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/adn-40-hd.gif", ADN 40 HD (140)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=40&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif", AMC (490)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=131&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif", AMC HD (444)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=328&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif", Animal Planet (373)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=88&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn-hd.gif", AXN HD (213)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=64&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif", AyM Sports (576)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=180&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif", AZ Clic HD (725)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=11&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif", AZ Corazón HD (250)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=70&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif", AZ Mundo HD (276)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=84&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7-hd.gif", Azteca 7 HD (1)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=2&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif", Bandamax (732)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=221&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif", Boomerang (324)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=115&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif", Canal de las Estrellas (102)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=17&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif", Canal de las Estrellas HD (2)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=402&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5.gif", Canal 5 (105)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=20&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif", Cartoon Network (320)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=112&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif", Cinecanal HD (430)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=149&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif", Cinecanal (480)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=337&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax.gif", Cinemax (481)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=158&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif", Comedy Central HD (217)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=340&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif", De Pelicula HD (442)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=121&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif", Discovery Channel (371)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=86&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif", Discovery Civilization (382)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=99&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif", Discovery Kids (303)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=109&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif", Discovery Science (381)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=98&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif", Discovery Theater HD (351)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=95&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif", Discovery Turbo (383)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=100&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif", Discovery World HD (356)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=101&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif", Disney Channel (312)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=113&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif", Disney Jr (308)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=118&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif", Disney XD (322)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=111&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif", Distrito Comedia (272)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=78&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif", E! Entertainment HD (255)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=55&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://i.imgur.com/iZBhZOO.jpg", El Garage TV (269)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=75&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif", El Gourmet (268)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=74&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif", ESPN Internacional HD (558)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=168&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif", ESPN 2 HD (561)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=169&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3-hd.gif", ESPN 3 HD (520)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=345&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif", ESPN + HD (516)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=167&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif", Foro TV (104)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=700&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif", Fox Channel (251)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=47&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif", FOX Action HD (416)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=336&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-hd.gif", Fox HD (201)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=46&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif", Fox Life (271)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=77&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif", FOX Movies HD (417)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=146&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-premium-series-hd.gif", FOX Series HD (415)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=139&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-hd.gif", Fox Sports HD (522)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=170&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif", Fox Sports 2 HD (527)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=172&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-3.gif", Fox Sport 3 (178)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=178&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif", FX (258)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=56&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx-hd.gif", FX HD (209)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=60&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif", Gala TV (109)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=24&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif", Glitz (270)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=76&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://i.imgur.com/ILh9Enp.jpg", Golf Channel Latin America (179)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=179&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif", Golden Edge (484)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=124&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif", Golden HD (436)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=122&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-hd.gif", History Channel HD (353)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=89&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health-hd.gif", Discovery H&H (374)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=96&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif", ID (263)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=68&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/isat.gif", ISAT (495)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=135&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif", Lifetime (379)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=94&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif", Milenio TV (603)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=1252&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif", MTV HD (726)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=212&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif", MTV Hits (727)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=213&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif", MTV Live HD (701)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=211&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif", Multimedios Plus (167)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=1253&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif", Multimedios Monterrey (2305)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=2305&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif", National Geographic (377)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=91&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="https://s18.postimg.org/i5axtgpft/NATGEO.png", Nat Geo Kids (2373)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=2373&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif", Nat Geo Wild HD (355)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=92&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif", Nick (317)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=110&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-hd.gif", Nick HD (315)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=331&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif", Nick Jr (310)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=117&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/once-tv.gif", Once TV (111)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=1942&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://i.imgur.com/soHz9Aj.jpg", Planet X HD (528)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=950&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif", Ritmoson (731)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=218&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif", Sony HD (203)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=48&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif", Space (491)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=130&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif", Space HD (445)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=129&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif", Studio Universal (492)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=132&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif", SyFy (257)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=59&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif", TBS Very Funny (273)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=81&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif", TCM (496)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=128&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/teleformula.gif", Teleformula (161)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=32&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif", Telehit HD (702)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=220&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif", The Film Zone HD (440)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=138&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif", Tiin (325)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=114&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif", TLC (386)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=97&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif", TLnovelas (275)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=83&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif", TNT (482)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=127&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif", TNT HD (435)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=126&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif", TNT Series (266)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=71&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif", Tooncast (328)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=108&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif", TruTV HD (215)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=79&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif", TVE (651)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=198&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif", Universal Channel (256)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=58&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif", Universal Channel HD (207)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=57&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1.gif", VH1 Classics (728)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=214&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif", VH1 HD (703)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=334&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-channel.gif", Warner Channel HD (205)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=52&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif", Wobi HD (387)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&lchId=102&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ NOTICIAS
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,EL TRECE HD
+http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX NFL
+http://200.76.77.237/LIVE/H01/CANAL17/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TRECE HD 
+http://200.76.77.237/LIVE/H01/CANAL23/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,PROYECTO 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ CORAZON
+http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL DE LAS ESTRELLAS HD
+http://200.76.77.237/LIVE/H01/CANAL52/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,5 HD
+http://200.76.77.237/LIVE/H01/CANAL55/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZTECA 13
+http://200.76.77.237/LIVE/H01/CANAL63/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL DE LAS ESTRELLAS HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ CLIC
+http://200.76.77.237/LIVE/H01/CANAL103/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FORO TV HD
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,GALA TV HD
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL 11 HD
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,EL TRECE HD
+http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,PROYECTO 40
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,E TV
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,UNO MAS UNO TV
+http://200.76.77.237/LIVE/H01/CANAL145/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TELEFORMULA
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,MC
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,H MX
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ MUNDO
+http://200.76.77.237/LIVE/H01/CANAL276/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TRENDY
+http://200.76.77.237/LIVE/H01/CANAL279/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FASHION TV
+http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,MAS CHIC
+http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ CINEMA
+http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,THANE
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX1
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX CLASSIC
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX LIFE HD
+http://200.76.77.237/LIVE/H01/CANAL777/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CINECANAL+
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TNT LA
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TNT SERIES
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DP HD
+http://200.76.77.237/LIVE/H01/CANAL422/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,SPACE
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,SPACE
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,ISAT
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CINEMAX
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,STUDIO UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,A&E HD
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,SONY HD
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,WARNER HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TRUE TV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,COMEDY CENTRAL HD
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,U UNICABLE HD
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ CORAZON HD
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,BBC ENTERTAINMENT
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,E!
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,UNIVERSAL CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" , ID INVESTIGATION DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,GOURMET TV
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,GARAGE TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CASA
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TLNOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CBEEBIES BBC
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISNEY JUNIOR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,NICKS TOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TOON CAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISCOVERY HD THEATER
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,HISTORY HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISCOVERY WORLD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISCOVERY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,ANIMALS PLANET DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,H&H DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,NATIONAL GEOGRAPHIC CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,LIFETIME
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" , SCI DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISCOVERY CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,DISCOVERY TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TLC DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CANAL LATIN AMERICA (F1)
+http://200.76.77.237/LIVE/H01/CANAL511/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,PX TV
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AYM SPORTS
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,ESPN 2 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,FOX 2 SPORTS
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,MTV LIVE HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TELEHITS HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ CLIK HD
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,MTV 
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,MTV HITS
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,CLASSIC 1
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,RITMOSON
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,MILENIO
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,EL FINANCIERO
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TVE
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
