@@ -1,6 +1,3 @@
 #EXTM3U
 #EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif", AMC (490)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&password=Only4u2c@831030&lchId=131&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif", AMC HD (444)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=0101226119&password=Only4u2c@831030&lchId=328&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/befb7fe7-3db5-470f-aee2-23525b4a71af
