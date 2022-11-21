@@ -1,20 +1,4 @@
 
-Sign up
-elAntro
-/
-iptv
-Public
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-iptv/TotalPlay
-@elAntro
-elAntro Canales de TotalPlay Mexico
- 1 contributor
-267 lines (267 sloc)  10.5 KB
 #EXTM3U
 #EXTINF:0,DISCOVERY THEATER
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
