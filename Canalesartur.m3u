@@ -1,3 +1,2 @@
-#EXTM3U
-#EXTINF:-1,http://200.76.77.230/LIVE/H01/CANAL102/PROFILE03.m3u8?IPTV_xickoAB1_%2F1499-20150816T153535.ts=-1
-http://200.76.77.230/LIVE/H01/CANAL102/PROFILE03.m3u8?IPTV_xickoAB1_%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/iptv/logos/azteca%207.png",Azteca 7 HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMjAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1hZzJ5ODZ0eWx0eDQxamQmbGFuPTI=&f=.m3u8
