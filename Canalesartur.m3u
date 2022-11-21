@@ -1,306 +1,284 @@
+
+Sign up
+elAntro
+/
+iptv
+Public
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+iptv/TotalPlay
+@elAntro
+elAntro Canales de TotalPlay Mexico
+ 1 contributor
+267 lines (267 sloc)  10.5 KB
 #EXTM3U
-#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/ae-hd.gif", A&E HD (211)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=62&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/adn-40-hd.gif", ADN 40 HD (140)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=40&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif", AMC (490)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=131&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif", AMC HD (444)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=328&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif", Animal Planet (373)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=88&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn-hd.gif", AXN HD (213)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=64&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif", AyM Sports (576)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=180&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif", AZ Clic HD (725)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=11&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif", AZ Corazón HD (250)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=70&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif", AZ Mundo HD (276)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=84&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7-hd.gif", Azteca 7 HD (1)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=2&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif", Bandamax (732)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=221&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif", Boomerang (324)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=115&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif", Canal de las Estrellas (102)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=17&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif", Canal de las Estrellas HD (2)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=402&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5.gif", Canal 5 (105)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=20&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif", Cartoon Network (320)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=112&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif", Cinecanal HD (430)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=149&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif", Cinecanal (480)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=337&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax.gif", Cinemax (481)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=158&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif", Comedy Central HD (217)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=340&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif", De Pelicula HD (442)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=121&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif", Discovery Channel (371)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=86&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif", Discovery Civilization (382)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=99&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif", Discovery Kids (303)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=109&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif", Discovery Science (381)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=98&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif", Discovery Theater HD (351)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=95&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif", Discovery Turbo (383)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=100&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif", Discovery World HD (356)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=101&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif", Disney Channel (312)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=113&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif", Disney Jr (308)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=118&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif", Disney XD (322)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=111&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif", Distrito Comedia (272)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=78&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif", E! Entertainment HD (255)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=55&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://i.imgur.com/iZBhZOO.jpg", El Garage TV (269)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=75&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif", El Gourmet (268)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=74&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif", ESPN Internacional HD (558)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=168&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif", ESPN 2 HD (561)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=169&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3-hd.gif", ESPN 3 HD (520)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=345&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif", ESPN + HD (516)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=167&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif", Foro TV (104)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=700&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif", Fox Channel (251)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=47&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif", FOX Action HD (416)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=336&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-hd.gif", Fox HD (201)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=46&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif", Fox Life (271)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=77&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif", FOX Movies HD (417)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=146&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-premium-series-hd.gif", FOX Series HD (415)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=139&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-hd.gif", Fox Sports HD (522)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=170&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif", Fox Sports 2 HD (527)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=172&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-3.gif", Fox Sport 3 (178)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=178&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif", FX (258)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=56&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx-hd.gif", FX HD (209)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=60&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif", Gala TV (109)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=24&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif", Glitz (270)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=76&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://i.imgur.com/ILh9Enp.jpg", Golf Channel Latin America (179)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=179&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif", Golden Edge (484)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=124&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif", Golden HD (436)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=122&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-hd.gif", History Channel HD (353)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=89&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health-hd.gif", Discovery H&H (374)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=96&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif", ID (263)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=68&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/isat.gif", ISAT (495)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=135&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif", Lifetime (379)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=94&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif", Milenio TV (603)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=1252&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif", MTV HD (726)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=212&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif", MTV Hits (727)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=213&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif", MTV Live HD (701)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=211&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif", Multimedios Plus (167)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=1253&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif", Multimedios Monterrey (2305)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=2305&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif", National Geographic (377)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=91&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="https://s18.postimg.org/i5axtgpft/NATGEO.png", Nat Geo Kids (2373)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=2373&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif", Nat Geo Wild HD (355)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=92&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif", Nick (317)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=110&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-hd.gif", Nick HD (315)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=331&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif", Nick Jr (310)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=117&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/once-tv.gif", Once TV (111)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=1942&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://i.imgur.com/soHz9Aj.jpg", Planet X HD (528)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=950&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif", Ritmoson (731)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=218&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif", Sony HD (203)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=48&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif", Space (491)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=130&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif", Space HD (445)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=129&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif", Studio Universal (492)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=132&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif", SyFy (257)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=59&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif", TBS Very Funny (273)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=81&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif", TCM (496)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=128&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/teleformula.gif", Teleformula (161)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=32&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif", Telehit HD (702)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=220&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif", The Film Zone HD (440)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=138&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif", Tiin (325)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=114&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif", TLC (386)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=97&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif", TLnovelas (275)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=83&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif", TNT (482)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=127&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif", TNT HD (435)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=126&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif", TNT Series (266)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=71&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif", Tooncast (328)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=108&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif", TruTV HD (215)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=79&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif", TVE (651)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=198&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif", Universal Channel (256)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=58&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif", Universal Channel HD (207)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=57&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1.gif", VH1 Classics (728)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=214&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif", VH1 HD (703)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=334&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-channel.gif", Warner Channel HD (205)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=52&format=HLSAD&f=.m3u8
-
-#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif", Wobi HD (387)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=ypwdiww8ycu8cq0&lchId=102&format=HLSAD&f=.m3u8
+#EXTINF:0,DISCOVERY THEATER
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
+#EXTINF:0,HISTORY CHANNEL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+#EXTINF:0,NATGEO WILD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY WORLD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+#EXTINF:0,H&H
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
+#EXTINF:0,NATGEO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
+#EXTINF:0,LIFETIME
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
+#EXTINF:0, DISCOVERY SCIENCE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY CIVILIZATION
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY TURBO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
+#EXTINF:0,TLC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
+#EXTINF:0,WOBI
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
+#EXTINF:0,EL FINANCIERO BLOOMERANG
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY THEATER HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+#EXTINF:0,HISTORY HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+#EXTINF:0,NATGEO WILD HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY WORLD HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+#EXTINF:0,ANIMAL PLANET HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
+#EXTINF:0,H&H HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+#EXTINF:0,NATGEO HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+#EXTINF:0,LIFETIME HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+#EXTINF:0, DISCOVERY SCIENCE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY CIVILIZATION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY TURBO HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
+#EXTINF:0,TLC HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+#EXTINF:0,WOBI HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
+#EXTINF:0,EL FINANCIERO BLOOMERANG HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE05.m3u8
+#EXTINF:0,ESPN +
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:0,ESPN 3
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:0,FOX SPORTS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:0,FOX SPORTS 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:0,PX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:0,ESPN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:0,ESPN 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:0,ESPN + HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+#EXTINF:0,ESPN 3 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:0,PX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+#EXTINF:0,ESPN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:0,ESPN 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+#EXTINF:0,FOX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+#EXTINF:0,SONY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+#EXTINF:0,WB
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+#EXTINF:0,UNIVERSAL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
+#EXTINF:0,FX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+#EXTINF:0,A&E HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
+#EXTINF:0,AXN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
+#EXTINF:0,TRUTV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
+#EXTINF:0,UNICABLE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
+#EXTINF:0,HOLATV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
+#EXTINF:0,FASHIONTV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE03.m3u8
+#EXTINF:0,AZCORAZON
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
+#EXTINF:0,FOX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
+#EXTINF:0,BBC ENTRETAINMENT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
+#EXTINF:0,E!
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
+#EXTINF:0,UNIVERSAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
+#EXTINF:0,SYFY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
+#EXTINF:0,FX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
+#EXTINF:0,ID
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
+#EXTINF:0,TNT SERIES
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
+#EXTINF:0,EL GOURMET
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
+#EXTINF:0,GARAGE TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
+#EXTINF:0,GLITZ
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
+#EXTINF:0,FOXLIFE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+#EXTINF:0,TBS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+#EXTINF:0,TLNOVELAS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+#EXTINF:0,tve
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+#EXTINF:0,CANAL DE LAS ESTRELLAS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+#EXTINF:0,CANAL 5
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+#EXTINF:0,AZTECA 7
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
+#EXTINF:0,GALAVISION
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:0,ONCE TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
+#EXTINF:0,AZTECA 13
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+#EXTINF:0,CANAL 40
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+#EXTINF:0,MULTIMEDIOS TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
+#EXTINF:0,AZCLIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
+#EXTINF:0,CANAL DE LAS ESTRELLAS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+#EXTINF:0,CANAL 5 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+#EXTINF:0,AZTECA 7 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+#EXTINF:0,GALAVISION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+#EXTINF:0,ONCE TV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
+#EXTINF:0,AZTECA 13 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+#EXTINF:0,CANAL 40 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+#EXTINF:0,MULTIMEDIOS TV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+#EXTINF:0,AZCLIC HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
+#EXTINF:0,FOX 1 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
+#EXTINF:0,FOX ACTION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+#EXTINF:0,FOX MOVIES HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+#EXTINF:0,FOX CINEMA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
+#EXTINF:0,FOX CLASSIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
+#EXTINF:0,AZCINEMA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
+#EXTINF:0,CINECANAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
+#EXTINF:0,TNT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
+#EXTINF:0,GOLDEN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
+#EXTINF:0,FILMZONE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
+#EXTINF:0,DEPELICULA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
+#EXTINF:0,AMC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
+#EXTINF:0,SPACE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
+#EXTINF:0,FOXCINEMA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE03.m3u8
+#EXTINF:0,FOXCLASSIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE03.m3u8
+#EXTINF:0,CINECANAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
+#EXTINF:0,CINEMAX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+#EXTINF:0,TNT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
+#EXTINF:0,EDGE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
+#EXTINF:0,AMC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+#EXTINF:0,SPACE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
+#EXTINF:0,STUDIOUNIVERSAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
+#EXTINF:0,I.SAT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
+#EXTINF:0,TCM
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
+#EXTINF:0,MTV LIVE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
+#EXTINF:0,TELEHIT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
+#EXTINF:0,VHR
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
+#EXTINF:0,MTV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
+#EXTINF:0,MTV HITS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
+#EXTINF:0,1CLASSICS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+#EXTINF:0,RITMOSON
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
+#EXTINF:0,BANDAMAX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
+#EXTINF:0,MTV LIVE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+#EXTINF:0,TELEHIT HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
+#EXTINF:0,VHR HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
+#EXTINF:0,MTV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+#EXTINF:0,MTV HITS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+#EXTINF:0,1CLASSICS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
+#EXTINF:0,RITMOSON HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
+#EXTINF:0,BANDAMAX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+#EXTINF:0,Foro TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
+#EXTINF:0,MILENIO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
