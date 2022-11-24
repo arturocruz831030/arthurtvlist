@@ -1,5 +1,5 @@
 
 #EXTM3U
 
-#EXTINF:-1" 
+#EXTINF:-1 group-title="Animación" tvg-logo="http://ky-iptv.com:25461/images/a2bdb2908ab1ac817ebe22713dddd737.png",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
