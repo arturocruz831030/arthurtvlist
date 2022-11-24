@@ -1,3 +1,5 @@
-#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/ae-hd.gif", A&E HD (211)
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=kc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&lchId=62&format=HLSAD&f=.m3u
 
+#EXTM3U
+
+#EXTINF:-1" 
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
