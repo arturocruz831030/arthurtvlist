@@ -1,5 +1,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Animación" tvg-logo="http://ky-iptv.com:25461/images/a2bdb2908ab1ac817ebe22713dddd737.png",CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+#EXTINF:-1 group-title="TV Abierta" tvg-logo="http://xtream-coders.com/x0/latino/nu9ve.png",NU9VE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=24&f=HLS&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7-hd.gif", Azteca 7 HD (1)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&lchId=2&format=HLSAD&f=.m3u8
+
