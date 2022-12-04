@@ -1,4 +1,14 @@
 #EXTM3U
+
+#EXTINF:0,FOX
+https://foxvideo.akamaized.net/exp=1670268732~acl=%2f*~hmac=4021e971ce812739eca9a4f31638786033ef5d1dc24783c2f8b76a486bf64ab6/fast/csm/live/373314256/7.m3u8
+
+#EXTINF:0,FOX 1
+https://foxvideo.akamaized.net/exp=1670268732~acl=%2f*~hmac=4021e971ce812739eca9a4f31638786033ef5d1dc24783c2f8b76a486bf64ab6/fast/csm/live/373314256/7.m3u8;jsessionid=26521E4BE49907540617B0BE5DCA0BC6.csm-e-cefoxause1live416-0512bcccf3377c546.tls1.yospace.com?yo.aas=true&yo.pk=true&yo.ap=/exp=1670268732~acl=%2f*~hmac=4021e971ce812739eca9a4f31638786033ef5d1dc24783c2f8b76a486bf64ab6/fast/&ad_env=1&_fw_ae=1bca1f19874e40b3675ef125882715a5&_fw_did=e7f31278-d78c-f261-492e-6b90ee9fb7a5&_fw_seg=&_fw_us_privacy=1---&_fw_vcid2=516429%3Ae7f31278-d78c-f261-492e-6b90ee9fb7a5&ad=fw_prod&ad.csid=fsapp%2Fwebdesktop%2Flive%2Ffs1&ad.flags=+slcb+sltp+qtcb+emcr+fbad+dtrd+vicb&ad.prof=516429%3Ayospace_foxsports_webdesktop_live&ad_mode=JIT&cdn=ak&traceid=watch-8ba1c95f7148f3ac&yo.av=4&yo.pdt=true&yo.po=32s&yo.t.jt=1500&yo.ug=94566&yo.vm=W3siREVTSVJFRF9EVVJBVElPTiI6ICIke0RFU0lSRURfRFVSQVRJT05fU0VDU30iLCAiUFJPR1JBTV9DQUlEIjogIiR7TUVUQURBVEEuQ0FJRH0ifV0K&headerbidding=%26_fw_is_lat%3D0&yo.up=/exp=1670268732~acl=%2f*~hmac=4021e971ce812739eca9a4f31638786033ef5d1dc24783c2f8b76a486bf64ab6/fast/&ss.exp=1670268732&ss.sig=iUMI5kVis5YWmpoSDO1libfNYi0=&externalId=foxsports1
+
+#EXTINF:0,telemundo
+http://sprtlive40.akamaized.net/hls/live/586476/TelemundoDeportes44fb315e/clear-1/exp=1670269035~acl=%2fhls%2flive%2f586476*~data=hdntl~hmac=3b096972f8a30795beaa640c48250cd9445ec0544745df12724ee43052b00a89/VIDEO_1_4596000.m3u8
+
 #EXTINF:0,DISCOVERY THEATER
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
 #EXTINF:0,HISTORY CHANNEL
